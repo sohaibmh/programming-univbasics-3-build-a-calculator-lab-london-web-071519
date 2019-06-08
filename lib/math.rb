@@ -19,8 +19,7 @@ def modulo(num1, num2)
 end
 
 def square_root(num)
-  num.map do |n| sqrt = Math.sqrt(n)
-  end
+ puts num
 end
 
-square_root(81)
+puts 
