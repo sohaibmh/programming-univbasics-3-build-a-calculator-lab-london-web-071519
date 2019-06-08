@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-describe "#addition" do 
+describe "#addition" do
   it "adds two numbers together" do
     expect(addition(5,4)).to eq(9)
   end
@@ -36,4 +36,4 @@ describe "#square_root" do
   end
 end
 
-
+puts sqrt(81)
