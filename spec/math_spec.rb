@@ -35,5 +35,3 @@ describe "#square_root" do
     expect(square_root(81)).to eq(9)
   end
 end
-a = 81
-puts a.sqrt
