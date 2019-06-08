@@ -36,4 +36,4 @@ describe "#square_root" do
   end
 end
 
-puts 81.sqrt
+puts sqrt(81)
