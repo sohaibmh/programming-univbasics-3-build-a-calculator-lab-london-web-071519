@@ -36,4 +36,4 @@ describe "#square_root" do
   end
 end
 
-puts square_root(81)
+puts a.square_root(81)
