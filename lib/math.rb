@@ -22,4 +22,3 @@ def square_root(num)
   num.map do |n| sqrt = Math.sqrt(n)
   end
 end
-
